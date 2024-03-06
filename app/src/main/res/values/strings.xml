@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">FinalProject</string>
+    <string name="player_name">Nama Pemain</string>
+    <string name="description">Deskripsi</string>
+    <string name="about">About</string>
+    <string-array name="data_name">
+        <item>Camavinga</item>
+        <item>Carvajal</item>
+        <item>Cortouis</item>
+        <item>Guler</item>
+        <item>Jude</item>
+        <item>Kroos</item>
+        <item>Militao</item>
+        <item>Modric</item>
+        <item>Rodrygo</item>
+        <item>Rudiger</item>
+        <item>Vini</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Pemain Real Madridqq1q </item>
+        <item>Pemain Real Madrid </item>
+        <item>Pemain Real Madrid </item>
+        <item>Pemain Real Madrid </item>
+        <item>Pemain Real Madrid </item>
+        <item>Pemain Real Madrid </item>
+        <item>Pemain Real Madrid </item>
+        <item>Pemain Real Madrid </item>
+        <item>Pemain Real Madrid </item>
+        <item>Pemain Real Madrid </item>
+        <item>Pemain Real Madrid </item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/camavinga</item>
+        <item>@drawable/carvajal</item>
+        <item>@drawable/cortouis</item>
+        <item>@drawable/guler</item>
+        <item>@drawable/jude</item>
+        <item>@drawable/kroos</item>
+        <item>@drawable/militao</item>
+        <item>@drawable/modric</item>
+        <item>@drawable/rodrygo</item>
+        <item>@drawable/rudiger</item>
+        <item>@drawable/vini</item>
+    </integer-array>
+</resources>
